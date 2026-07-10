@@ -1,23 +1,23 @@
 # AI Journey DL
 
-My deep-learning learning repo.
-
-For now this side of the journey is only for TensorFlow/Keras notebooks. PyTorch notes can come later.
+Deep-learning notes and small projects collected while learning with TensorFlow, Keras, NumPy, and supporting Python tools.
 
 ## Structure
 
-- `fundamentals/tensorflow-keras/` for smaller learning notebooks and code-alongs
-- `projects/` for dataset-based notebooks and end-to-end practice
+- `fundamentals/tensorflow-keras/` for short learning notebooks and visualization practice
+- `projects/` for dataset-based notebooks and end-to-end experiments
 
-## Current notebook
+## Notebook map
 
-- `projects/house-price-regression/codes/House_Price_Regression.ipynb`
+- `fundamentals/tensorflow-keras/3d-plotting-basics.ipynb` builds a synthetic 3D curve and compares 3D vs 2D views.
+- `projects/house-price-regression/codes/House_Price_Regression.ipynb` trains dense neural networks for house price prediction.
 
 ## Run setup
 
 Most notebooks here expect Python with:
 
 - TensorFlow
+- numpy
 - pandas
 - scikit-learn
 - matplotlib
