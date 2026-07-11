@@ -1,16 +1,12 @@
 # AI Journey DL
 
-Deep-learning notes and small projects collected while learning with TensorFlow, Keras, NumPy, and supporting Python tools.
-
-## Structure
-
-- `fundamentals/tensorflow-keras/` for short learning notebooks and visualization practice
-- `projects/` for dataset-based notebooks and end-to-end experiments
+Deep-learning fundamentals and short practice notebooks collected while learning with TensorFlow, Keras, NumPy, and supporting Python tools.
 
 ## Notebook map
 
-- `fundamentals/tensorflow-keras/3d-plotting-basics.ipynb` builds a synthetic 3D curve and compares 3D vs 2D views.
-- `projects/house-price-regression/codes/House_Price_Regression.ipynb` trains dense neural networks for house price prediction.
+- `3d-plotting-basics.ipynb`
+  Source: `test.ipynb`
+  Focus: building a synthetic 3D curve with NumPy and comparing line, scatter, and 2D projection views with Matplotlib.
 
 ## Run setup
 
