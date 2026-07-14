@@ -8,6 +8,10 @@ Deep-learning fundamentals and short practice notebooks collected while learning
   Source: `test.ipynb`
   Focus: building a synthetic 3D curve with NumPy and comparing line, scatter, and 2D projection views with Matplotlib.
 
+- `rnn-memory-basics.ipynb`
+  Source: `RNN.ipynb`
+  Focus: sequence windows, hidden-state intuition, and a simple gating demo that shows why LSTM/GRU-style memory helps.
+
 ## Run setup
 
 Most notebooks here expect Python with:
