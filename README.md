@@ -4,6 +4,10 @@ Deep-learning fundamentals and short practice notebooks collected while learning
 
 ## Notebook map
 
+- `numpy-basics-exercises.ipynb`
+  Source: `04-Numpy Exercises.ipynb`
+  Focus: quick NumPy practice covering array creation, reshaping, random sampling, indexing, and basic aggregations.
+
 - `3d-plotting-basics.ipynb`
   Source: `test.ipynb`
   Focus: building a synthetic 3D curve with NumPy and comparing line, scatter, and 2D projection views with Matplotlib.
