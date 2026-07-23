@@ -12,6 +12,10 @@ Deep-learning fundamentals and short practice notebooks collected while learning
   Source: `test.ipynb`
   Focus: building a synthetic 3D curve with NumPy and comparing line, scatter, and 2D projection views with Matplotlib.
 
+- `diamonds-visualization-exercises.ipynb`
+  Source: `02-Visualization-Exercises.ipynb`
+  Focus: practicing core Seaborn plots on the diamonds dataset with scatter, histogram, count, and boxplot views.
+
 - `rnn-memory-basics.ipynb`
   Source: `RNN.ipynb`
   Focus: sequence windows, hidden-state intuition, and a simple gating demo that shows why LSTM/GRU-style memory helps.
