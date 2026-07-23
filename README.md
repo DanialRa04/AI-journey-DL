@@ -16,6 +16,10 @@ Deep-learning fundamentals and short practice notebooks collected while learning
   Source: `02-Visualization-Exercises.ipynb`
   Focus: practicing core Seaborn plots on the diamonds dataset with scatter, histogram, count, and boxplot views.
 
+- `pandas-groupby-notes.ipynb`
+  Source: `exercise.ipynb`
+  Focus: small pandas practice for grouped summaries, mixed-type column checks, and quick feature engineering.
+
 - `rnn-memory-basics.ipynb`
   Source: `RNN.ipynb`
   Focus: sequence windows, hidden-state intuition, and a simple gating demo that shows why LSTM/GRU-style memory helps.
