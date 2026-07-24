@@ -20,6 +20,10 @@ Deep-learning fundamentals and short practice notebooks collected while learning
   Source: `exercise.ipynb`
   Focus: small pandas practice for grouped summaries, mixed-type column checks, and quick feature engineering.
 
+- `africa-crisis-pandas-exercises.ipynb`
+  Source: `07-Pandas-Exercises.ipynb`
+  Focus: short pandas question-driven practice on crisis history, inflation spikes, debt defaults, and grouped country summaries.
+
 - `rnn-memory-basics.ipynb`
   Source: `RNN.ipynb`
   Focus: sequence windows, hidden-state intuition, and a simple gating demo that shows why LSTM/GRU-style memory helps.
