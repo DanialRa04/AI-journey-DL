@@ -24,6 +24,10 @@ Deep-learning fundamentals and short practice notebooks collected while learning
   Source: `07-Pandas-Exercises.ipynb`
   Focus: short pandas question-driven practice on crisis history, inflation spikes, debt defaults, and grouped country summaries.
 
+- `cnn-vision-basics.ipynb`
+  Source: `LearningCNN.ipynb`
+  Focus: visual notes on convolution, kernels, stride, pooling, and why CNN layers use fewer parameters than dense image models.
+
 - `rnn-memory-basics.ipynb`
   Source: `RNN.ipynb`
   Focus: sequence windows, hidden-state intuition, and a simple gating demo that shows why LSTM/GRU-style memory helps.
