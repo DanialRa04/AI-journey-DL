@@ -28,6 +28,10 @@ Deep-learning fundamentals and short practice notebooks collected while learning
   Source: `LearningCNN.ipynb`
   Focus: visual notes on convolution, kernels, stride, pooling, and why CNN layers use fewer parameters than dense image models.
 
+- `autoencoder-dimension-reduction.ipynb`
+  Source: `Autoencoder(DimensionReduction).ipynb`
+  Focus: compressing a noisy 3D synthetic dataset into a 2D latent space with a tiny autoencoder built from scratch.
+
 - `rnn-memory-basics.ipynb`
   Source: `RNN.ipynb`
   Focus: sequence windows, hidden-state intuition, and a simple gating demo that shows why LSTM/GRU-style memory helps.
