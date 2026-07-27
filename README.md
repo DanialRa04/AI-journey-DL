@@ -32,6 +32,10 @@ Deep-learning fundamentals and short practice notebooks collected while learning
   Source: `Autoencoder(DimensionReduction).ipynb`
   Focus: compressing a noisy 3D synthetic dataset into a 2D latent space with a tiny autoencoder built from scratch.
 
+- `mnist-autoencoder-basics.ipynb`
+  Source: `Autoencoder(GFGexample).ipynb`
+  Focus: reconstructing MNIST digits with a small bottleneck autoencoder, then inspecting reconstructions and the learned latent features.
+
 - `rnn-memory-basics.ipynb`
   Source: `RNN.ipynb`
   Focus: sequence windows, hidden-state intuition, and a simple gating demo that shows why LSTM/GRU-style memory helps.
