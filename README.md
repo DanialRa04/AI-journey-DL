@@ -40,15 +40,20 @@ Deep-learning fundamentals and short practice notebooks collected while learning
   Source: `RNN.ipynb`
   Focus: sequence windows, hidden-state intuition, and a simple gating demo that shows why LSTM/GRU-style memory helps.
 
+- `sinewave-rnn-forecasting.ipynb`
+  Source: `RNN(sinewave).ipynb`
+  Focus: forecasting a sine wave with chronological splits, sliding windows, a tiny NumPy recurrent model, and recursive prediction limits.
+
 ## Run setup
 
-Most notebooks here expect Python with:
+Most notebooks here run with Python plus:
 
-- TensorFlow
 - numpy
 - pandas
 - scikit-learn
 - matplotlib
 - seaborn
+
+Some original deep-learning experiments were rebuilt into self-contained NumPy or scikit-learn notebooks so they stay runnable without a full TensorFlow setup.
 
 Data files are only included when they are small, public, and needed to rerun the notebook.
