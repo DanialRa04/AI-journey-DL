@@ -44,6 +44,10 @@ Deep-learning fundamentals and short practice notebooks collected while learning
   Source: `RNN(sinewave).ipynb`
   Focus: forecasting a sine wave with chronological splits, sliding windows, a tiny NumPy recurrent model, and recursive prediction limits.
 
+- `tensorflow-tabular-basics.ipynb`
+  Source: `learning_ai.ipynb`
+  Focus: a cleaned tabular workflow that moves from pandas practice to heart-dataset EDA and a small Keras regression baseline.
+
 ## Run setup
 
 Most notebooks here run with Python plus:
